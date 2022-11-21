@@ -1,0 +1,55 @@
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center !important;
+}
+
+.about {
+    background-image: url(./assets/materialDesign.jpg);
+    height: 850px;
+
+}
+
+.about1 {
+    margin-top: 300px;
+    height: 100%;
+    width: 150%;
+}
+
+.profilePhoto {
+    margin-top: 100px;
+    padding: 50px;
+    width: 500px;
+    height: 600px;
+    border-radius: 50%;
+}
+
+.skills {
+    /* border: 2px solid gray;
+    border-radius: 15%; */
+    padding: 30px;
+}
+
+.tools {
+    /* border: 2px solid gray;
+    border-radius: 15%; */
+    padding: 100px 30px;
+}
+
+.p1 {
+    margin-top: 100px;
+}
+
+.p2 {
+    margin-top: 100px;
+}
+
+.contacts {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.exp {
+    text-align: left;
+    margin-top: 50px;
+}
